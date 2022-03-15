@@ -1,0 +1,201 @@
+body{
+        
+          font-family: 'Poppins', sans-serif;
+
+        
+}
+h1{
+          border-left: 10px;
+          font-size: 65px;
+          line-height: 20px;
+
+}
+.border{
+          font-size: 30px;
+          display: flex;
+          
+}
+.top{
+          margin-top: 90px;
+          margin-right: 80px;
+          line-height: 20px;
+        
+}
+.baner{
+          border-left: 4px solid red;
+          padding: 10px;
+        
+}
+.display{
+          display: flex;
+          margin: 70px 90px;
+          display: flex;
+         
+}
+.orance{
+          color:orange;
+          font-size: 60px;
+          
+}
+.picture img{
+          height: 500px;
+          width: 400px;
+       
+         
+}
+.block{
+       font-size: 15px;
+      
+}
+.button{
+        text-decoration: none;
+        background-image: linear-gradient(rgb(20, 202, 133), blue );
+        padding: 10px 40px;
+        border-radius: 5px;
+        font-weight: 700;
+        color:white
+        
+}.button :hover{
+          color: aqua;
+}
+.pera{
+          font-size: 15px;
+}
+.missin{
+          text-align: center;
+          font-size: 50px;
+}
+.desion{
+          display: flex;
+          border: radius 90px;
+          margin: 50px;
+}
+.mission1 img{
+           width: 50%;
+           height: auto;
+         
+}
+.mission1{
+          border-radius: 30px;
+          background-color: rgb(170, 207, 224);
+          padding: 5%;
+          align-items: center;
+}
+.mission2 img {
+          width: 50%;
+          height: auto;
+          
+}
+.mission2{
+          border-radius: 30px;
+          background-color: rgb(188, 168, 201);
+          padding: 5%;
+          align-items: center;
+}
+.mission3 img {
+          width: 50%;
+          height: auto;
+}
+.mission3{
+          border-radius: 30px;
+          background-color: rgb(208, 218, 182);
+          padding: 5%;
+          align-items: center;
+}
+
+.button2{
+          text-decoration: none;
+           background-image: linear-gradient(rgb(20, 202, 133), blue );
+        padding: 10px 40px;
+        border-radius: 5px;
+        font-weight: 700;
+        color:white
+}
+.banner{
+          margin: 20px;
+          padding-left: 50px;
+
+}
+.banner h1{
+          font-size: 30px;
+          font-weight:bold;
+}
+.babu{
+          display: flex;
+
+}
+.babu img{
+          height: 350px;
+          width: 370px;
+}
+.picture{
+     margin-left: 70px;
+}
+.buttom3{
+          text-decoration: none;
+           background-image: linear-gradient(rgb(20, 202, 133), blue );
+        padding: 10px 40px;
+        border-radius: 5px;
+        font-weight: 700;
+        color:white
+}
+.maner{
+         display: flex;
+         margin: 100px;
+}
+.maner h1{
+          font-size:40px;
+          padding:20px;
+          margin: 20px;
+          line-height: 5px;
+}
+.poto img{
+          width: 400px;
+          height: 400px
+}
+.orance2{
+          color: orange;
+}
+
+.kaka h1{
+          text-align: center;
+          font-size: 40px;
+}
+.shisu{
+          display: flex;
+          padding: 100px;
+        
+
+}
+.shisu img{
+          width: 300px;
+          height: 550px
+}
+.popo{
+          padding: 120px;
+}
+.kamal{
+          padding-left: 50px;
+}
+button{
+          text-decoration: none;
+        background-image: linear-gradient(rgb(20, 202, 133), blue );
+        padding: 10px 40px;
+        border-radius: 5px;
+        font-weight: 700;
+        color:white
+}
+footer{
+          text-align: center;
+          background-color: black;
+          font-style: italic;
+          color: aliceblue;
+          height: 200px;
+          width: 1200px;
+          padding-top: 20px; ;
+}
+.opu{
+     padding-right: 0%;
+     border: 0ch;
+     margin: 0%;
+}
